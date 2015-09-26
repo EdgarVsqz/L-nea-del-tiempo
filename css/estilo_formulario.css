@@ -1,0 +1,10 @@
+form{
+    width: 20%;
+    padding: 2%;
+    border: 2px solid black;
+    margin: auto;
+}
+
+input.aceptar{
+    margin: auto;
+}
